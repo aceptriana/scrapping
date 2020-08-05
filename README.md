@@ -1,19 +1,51 @@
 # scrapping
 Project untuk melakukan Scrapping Sitemap dari url Menggunakan Node Js dan Menyimpannya Dalam Bentuk File
 
-* How To Use * 
+## Installation
 
-```
+Bahan yang di perlukan.
+
+```bash
 pkg install node-js
 pkg install npm
-pkg istall git
-git clone https://github.com/aceptriana/scrapping.git
+pkg install git 
+pkg install nano
 npm install unirest
 npm install random-useragent
-pkg install nano
+```
+
+## Usage
+
+```
+git clone https://github.com/aceptriana/scrapping.git
 cd scrapping
 nano server.js
-lalu ubah Link_Sitemap= nya
-ctrl + x + y
-node server.js
 ```
+<img src=”image.jpg” width=”100">
+```
+ctrl + x+y
+
+node server.js
+
+```
+
+## Thanks To
+[Mas Koding](https://maskodingcom)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
