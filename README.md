@@ -21,7 +21,7 @@ git clone https://github.com/aceptriana/scrapping.git
 cd scrapping
 nano server.js
 ```
-<img src=”https://github.com/aceptriana/scrapping/blob/master/image.jpg” width=”100">
+![alt text](https://github.com/aceptriana/scrapping/blob/master/image.jpg)
 ```
 ctrl + x+y
 
