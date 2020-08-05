@@ -23,11 +23,12 @@ nano server.js
 ```
 ![alt text](https://github.com/aceptriana/scrapping/blob/master/image.jpg)
 ```
+```
 ## Ket
 Silahkan ganti "Link_Sitemap" dengan dengan link url sitemap yang ingin kamu scrap isinya.
 
 "Remove_Duplicate_Link" berfungsi untuk menghapus link yang sama. Maksudnya jika terdapat link duplicate di dalam file hasil scrapping, maka url duplicate tersebut akan dihapus dan menyisakan 1 link url asli. Jika kamu setting "no" maka link duplicate tidak akan dihapus. Jika kamu setting "yes" maka link duplicate akan di hapus.
-
+```
 ctrl x+y
 
 node server.js
@@ -39,6 +40,7 @@ Silahkan buka folder OUTPUT
 cd OUTPUT
 mv hasil.txt /sdcard
 buka hasilnya dengan Quick Edit
+atau dengan mengunakan nano hasil.txt
 ```
 ## Thanks To
 [Mas Koding](https://maskodingcom)
